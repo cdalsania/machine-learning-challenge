@@ -82,10 +82,8 @@ Built Random Forest Classifier model using the top 17 features proposed by featu
 Used GridSearch to tune model parameters and evaluated the model performance.
 
 Training Data Score: 1.0
+
 Testing Data Score: 0.8998855835240275
-
-
-
 
 Conclusions
 
@@ -93,3 +91,8 @@ The Random Forest Classifier model's accuracy on test data was 0.899, while the 
 Random Forest Classifier model took 132 mins and 54 mins to train the model with 40 features and 17 features, individually. The logistic Regression model was quite fast in training the model when compared to Random Forest Classifier model.
 
 The difference in accuracy is simple compared to the amount of time required to train the models. So, the Logistic Regression model seems to be a better choice.
+
+
+Contributor
+
+Crystal Dalsania (dalsania.crystal@gmail.com)
